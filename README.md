@@ -2,7 +2,7 @@
 
 This project uses Convolutional Neural Networks (CNN) with a VGG backbone to detect brain tumors from MRI images. The dataset contains MRI images classified into two categories: "tumor" and "no tumor." The model is fine-tuned on top of the pre-trained VGG model to improve accuracy and speed up the training process.
 
-## Dataset
+## Dataset  
 
 The dataset used for this project is the **Brain MRI Images for Brain Tumor Detection** available on Kaggle:
 - [Brain MRI Images for Brain Tumor Detection](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
